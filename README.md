@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sravan kumar chopperla
+- 👋 Hi, I’m Sravan kumar chopperla
 - 👀 I’m interested in Data Science, Data visualizations, Data literacy
 - 🌱 I’m currently learning IBM Data science on coursera
 - 💞️ I’m looking to collaborate on data releated projects with challenging environment  
